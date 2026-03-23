@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ananda-bhavan-website/static/css/main.953da1ce.css",
+    "main.js": "/ananda-bhavan-website/static/js/main.88144a41.js",
+    "index.html": "/ananda-bhavan-website/index.html",
+    "main.953da1ce.css.map": "/ananda-bhavan-website/static/css/main.953da1ce.css.map",
+    "main.88144a41.js.map": "/ananda-bhavan-website/static/js/main.88144a41.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.953da1ce.css",
+    "static/js/main.88144a41.js"
+  ]
+}
